@@ -1,3 +1,3 @@
 # parallax
-# things goes wild
-dfgbdfgdfgdfgfd
+# things goes wilde
+
